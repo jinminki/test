@@ -23,7 +23,7 @@ function isInsideRestrictedArea(lat, lng) {
 
 // CORS 설정: 웹사이트의 도메인만 허용
 const corsOptions = {
-    origin: 'https://YOUR_NETLIFY_WEBSITE.netlify.app',  // 웹사이트 URL을 넣으세요
+    origin: 'https://songjingps.netlify.app',  // 웹사이트 URL을 넣으세요
     optionsSuccessStatus: 200,
 };
 
